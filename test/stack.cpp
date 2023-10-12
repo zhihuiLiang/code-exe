@@ -1,5 +1,6 @@
 #include <stack>
+#include <vector>
 
 int main(){
-    std::stack<int> s;
+    std::vector<int> ans(-1);
 }
